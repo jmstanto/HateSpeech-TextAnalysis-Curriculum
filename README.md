@@ -43,7 +43,7 @@
 <p> &nbsp;&nbsp;&nbsp;&bull; Organize the data in Pandas dataframe, a key data structure of Python</p>
 <p> &nbsp;&nbsp;&nbsp;&bull; Provide some descriptive statistics about the dataset</p>
 <p> &nbsp;&nbsp;&nbsp;&bull; Prepare the selection containing offensive speeches for further texual analysis by removing stopwords, lowercasing, stemming, etc.</p>
-<p> &nbsp;&nbsp;&nbsp;&bull; Use CountVectorizer module to convert the collection of speeches (or, comments/tweets/documents, etc) into a matrix containing term or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word frequencies</p>
+<p> &nbsp;&nbsp;&nbsp;&bull; Use CountVectorizer module to convert the collection of speeches (or, comments/tweets/documents, etc) into a matrix containing term or word frequencies</p>
 <p> &nbsp;&nbsp;&nbsp;&bull; Calculate TF-IDF score of each term or word to determine the importance of that term in a specific selection</p>
 
 ## Example datasets
