@@ -33,6 +33,8 @@
 
 ### Assignment_Visual Hate
 
+<p> This assignment provides several examples of hate symbols (visualized hate speech) for analysis. Students are directed to utilize the ADL Glossary of Extremism and/or the ADL Hate Symbols Database to gain context about their selected visual. In completing this exercise students become familiar with two new lexicons, and continue to practice analyzing the psychological intent and motivations behind posting hateful content. 
+
 ## R Code
 
 ## Python Code
