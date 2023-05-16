@@ -25,6 +25,8 @@
 
 ### Assignment_Coded Language
 
+<p> This assignment directs students to explore and utilize the online database Hatebase in order to analyze an example of online cotent containing covert hate speech (de-identified examples are provided). This exercise allows students to become familiar with the use of online hate speech lexicons and to consider multiple aspects of hate speech text analysis - including poster intent, in-group/out-group identities, and the possible challenges of moderation or analysis. <b>This is recommended as the first assignment.</b> 
+
 ### Assignment_Online Observation
 
 <p> This assignment give students the opportunity to study the real world posts of individuals who circulate hate speech through passive, online observation. Several links and options are provided for suitable online spaces for this task. It is recommended that students complete Assignment_Coded Language or have other opportunities to learn how to use Hatebase before completing this assignment.</p>
