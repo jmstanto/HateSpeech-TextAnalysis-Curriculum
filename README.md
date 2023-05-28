@@ -9,7 +9,7 @@
 <p> A brief literature review of psychological research on hate speech including text analysis methods, benfits and ethics. This reading is suitable as an orientation for instructors and/or as an introductory reading for students.</p>
 
 ### Selected Resources</i></p>
-<p>An annotated bibliography of open-source scholarship on hate speech and text analysis. Selected readings vary and include: theoretical readings on the psychological effects and motivations around hate speech, case studies of text analysis methods and software, and [TBD]. These may be useful to instructors for selecting assigned readings for before or after in-class instruction. Also included is a selection of URLS to hate speech lexicons with a brief description of their scope. These can be useful for research, examples, or in-class activities.
+<p>An annotated bibliography of open-source scholarship on hate speech and text analysis. These may be useful to instructors for selecting assigned readings for before or after in-class instruction. Also included is a selection of URLS to hate speech lexicons with a brief description of their scope. These can be useful for research, examples, or in-class activities.
 
 ## Slide Decks
 
